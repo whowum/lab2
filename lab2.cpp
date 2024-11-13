@@ -5,7 +5,6 @@
 #include <iostream>
 using namespace std;
 #include <Windows.h>
-#include <string.h>
 
 int main()
 {
